@@ -1,0 +1,782 @@
+[
+   {
+      "hotelName": "Kohistan Continental Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2378415808/kohistan-continental-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150566&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315983301&selectedRatePlan=385195278&expediaPropertyId=74294244",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Behrain Continental Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2385878624/behrain-continental-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150566&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=48&top_cur=EUR&userIntent=&selectedRoomType=316010793&selectedRatePlan=385247559&expediaPropertyId=74527457",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Grace Hotel Bahrain",
+      "hotelUrl": "https://www.hotels.com/ho2385042432/grace-hotel-bahrain-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150573&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=50&top_cur=EUR&userIntent=&selectedRoomType=316005512&selectedRatePlan=385236590&expediaPropertyId=74501326",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Dimsun Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2376253792/dimsun-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150573&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315964653&selectedRatePlan=385167535&expediaPropertyId=74226681",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Dream Valley Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2296492608/dream-valley-guest-house-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=38&top_cur=EUR&userIntent=&selectedRoomType=315667282&selectedRatePlan=384256559&expediaPropertyId=71734144",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Baba Palace",
+      "hotelUrl": "https://www.hotels.com/ho2378523168/hotel-baba-palace-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315984347&selectedRatePlan=385196191&expediaPropertyId=74297599",
+      "Status": "True"
+   },
+   {
+      "hotelName": "The Kingsbury Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2376782976/the-kingsbury-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=53&top_cur=EUR&userIntent=&selectedRoomType=315971256&selectedRatePlan=385170616&expediaPropertyId=74243218",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Imran Pearl",
+      "hotelUrl": "https://www.hotels.com/ho2385552992/hotel-imran-pearl-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=316008096&selectedRatePlan=385241487&expediaPropertyId=74517281",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Marina Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2389213504/marina-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150572&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=70&top_cur=EUR&userIntent=&selectedRoomType=316029307&selectedRatePlan=385283660&expediaPropertyId=74631672",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Aryan Swat Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2376243584/aryan-swat-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315964388&selectedRatePlan=385167511&expediaPropertyId=74226362",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Rock Valley Place",
+      "hotelUrl": "https://www.hotels.com/ho2392728384/rock-valley-place-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=54&top_cur=EUR&userIntent=&selectedRoomType=316058117&selectedRatePlan=385332135&expediaPropertyId=74741512",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Madina Tower Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2385567744/madina-tower-hotel-restaurant-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=316009594&selectedRatePlan=385243594&expediaPropertyId=74517742",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Swiss Palace",
+      "hotelUrl": "https://www.hotels.com/ho2376755136/hotel-swiss-palace-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=315973093&selectedRatePlan=385175572&expediaPropertyId=74242348",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Bolan Continental Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2383327136/bolan-continental-hotel-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315999492&selectedRatePlan=385212508&expediaPropertyId=74447723",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Shah Luxury Apartments",
+      "hotelUrl": "https://www.hotels.com/ho2382420288/shah-luxury-apartments-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150560&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=50&top_cur=EUR&userIntent=&selectedRoomType=315989337&selectedRatePlan=385203755&expediaPropertyId=74419384",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Zahoor Hotel And Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2390695456/zahoor-hotel-and-restaurant-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=316040585&selectedRatePlan=385304502&expediaPropertyId=74677983",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Lachine Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2377217792/lachine-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150562&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315973725&selectedRatePlan=385176877&expediaPropertyId=74256806",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Junaid Palace",
+      "hotelUrl": "https://www.hotels.com/ho2390658272/junaid-palace-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316040308&selectedRatePlan=385304074&expediaPropertyId=74676821",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Khans Royal Cottage Bahrain Swat",
+      "hotelUrl": "https://www.hotels.com/ho2376844992/khans-royal-cottage-bahrain-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150562&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=72&top_cur=EUR&userIntent=&selectedRoomType=315971783&selectedRatePlan=385171113&expediaPropertyId=74245156",
+      "Status": "True"
+   },
+   {
+      "hotelName": "GB Ghizer Hotel Mingora Swat",
+      "hotelUrl": "https://www.hotels.com/ho2372825312/gb-ghizer-hotel-mingora-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150558&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=33&top_cur=EUR&userIntent=&selectedRoomType=315947721&selectedRatePlan=385125601&expediaPropertyId=74119541",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Shah Family Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2295564512/shah-family-guest-house-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150557&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=315660501&selectedRatePlan=384239562&expediaPropertyId=71705141",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Emarat Plaza Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2386568768/emarat-plaza-hotel-madyan-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150564&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=60&top_cur=EUR&userIntent=&selectedRoomType=316015885&selectedRatePlan=385259591&expediaPropertyId=74549024",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Al Fateh Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2388793984/al-fateh-hotel-madyan-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150561&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316024186&selectedRatePlan=385280310&expediaPropertyId=74618562",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Gulf And Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2388811776/hotel-gulf-and-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150565&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316024377&selectedRatePlan=385280475&expediaPropertyId=74619118",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Evergreen Hotel miandam",
+      "hotelUrl": "https://www.hotels.com/ho2390694880/evergreen-hotel-miandam-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150567&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316040586&selectedRatePlan=385304504&expediaPropertyId=74677965",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Panorama Hotel Miandam Swat",
+      "hotelUrl": "https://www.hotels.com/ho2389413440/panorama-hotel-miandam-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150561&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=50&top_cur=EUR&userIntent=&selectedRoomType=316030847&selectedRatePlan=385286819&expediaPropertyId=74637920",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Imperial Hotel Miandam",
+      "hotelUrl": "https://www.hotels.com/ho2391349152/imperial-hotel-miandam-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150562&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=316045548&selectedRatePlan=385312333&expediaPropertyId=74698411",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Miandam Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2389200352/miandam-guest-house-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150562&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316029193&selectedRatePlan=385283485&expediaPropertyId=74631261",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Swat Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2383174976/swat-palace-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150562&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=102&top_cur=EUR&userIntent=&selectedRoomType=315997818&selectedRatePlan=385210775&expediaPropertyId=74442968",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Welcome Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2335149824/welcome-guest-house-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150563&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=315800413&selectedRatePlan=384706856&expediaPropertyId=72942182",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Royal Cottage Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2297102688/royal-cottage-hotel-and-restaurant-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150564&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=315671110&selectedRatePlan=384261309&expediaPropertyId=71753209",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel KB5",
+      "hotelUrl": "https://www.hotels.com/ho2390683808/hotel-kb5-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150568&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316040494&selectedRatePlan=385304376&expediaPropertyId=74677619",
+      "Status": "True"
+   },
+   {
+      "hotelName": "The Walnut Heights",
+      "hotelUrl": "https://www.hotels.com/ho2272435648/hotel-walnut-heights-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150564&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=93&top_cur=EUR&userIntent=&selectedRoomType=315549947&selectedRatePlan=384654309&expediaPropertyId=70982364",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Riverdale Resort Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2394467712/riverdale-resort-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150565&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=84&top_cur=EUR&userIntent=&selectedRoomType=316069913&selectedRatePlan=385361175&expediaPropertyId=74795866",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Calm Kalam Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2288776928/calm-kalam-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150564&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=315614802&selectedRatePlan=384141121&expediaPropertyId=71493029",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Walnut City",
+      "hotelUrl": "https://www.hotels.com/ho2337797920/hotel-walnut-city-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150564&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315813649&selectedRatePlan=384753202&expediaPropertyId=73024935",
+      "Status": "True"
+   },
+   {
+      "hotelName": "King Valley Hotel 2",
+      "hotelUrl": "https://www.hotels.com/ho2377770624/king-valley-hotel-2-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150567&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=45&top_cur=EUR&userIntent=&selectedRoomType=315978241&selectedRatePlan=385185356&expediaPropertyId=74274082",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Al-Khaleej Kalam Swat",
+      "hotelUrl": "https://www.hotels.com/ho2372591776/hotel-al-khaleej-kalam-swat-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150566&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=74&top_cur=EUR&userIntent=&selectedRoomType=315944598&selectedRatePlan=385124354&expediaPropertyId=74112243",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Jungle Inn",
+      "hotelUrl": "https://www.hotels.com/ho2268229440/jungle-inn-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150568&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=67&top_cur=EUR&userIntent=&selectedRoomType=315520778&selectedRatePlan=383848048&expediaPropertyId=70850920",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Taj Mahal",
+      "hotelUrl": "https://www.hotels.com/ho2376731104/hotel-taj-mahal-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150567&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=74&top_cur=EUR&userIntent=&selectedRoomType=315970680&selectedRatePlan=385169842&expediaPropertyId=74241597",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Al-Hamra Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2378372128/al-hamra-hotel-jeddah-saudi-arabia/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150568&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315983054&selectedRatePlan=385194606&expediaPropertyId=74292879",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Marina Inn",
+      "hotelUrl": "https://www.hotels.com/ho2376751456/hotel-marina-inn-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150585&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315970807&selectedRatePlan=385169989&expediaPropertyId=74242233",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Chaman Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2393723968/chaman-hotel-kalam-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150582&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=50&top_cur=EUR&userIntent=&selectedRoomType=316062531&selectedRatePlan=385349540&expediaPropertyId=74772624",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Heaven Rose",
+      "hotelUrl": "https://www.hotels.com/ho2386525888/hotel-heaven-rose-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150584&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=67&top_cur=EUR&userIntent=&selectedRoomType=316015723&selectedRatePlan=385258261&expediaPropertyId=74547684",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Summer Inn Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2386526688/summer-inn-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150575&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316015762&selectedRatePlan=385259098&expediaPropertyId=74547709",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Forest Valley Cottages",
+      "hotelUrl": "https://www.hotels.com/ho2268994720/forest-valley-cottages-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=104&top_cur=EUR&userIntent=&selectedRoomType=315527366&selectedRatePlan=383857931&expediaPropertyId=70874835",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Baba Continental",
+      "hotelUrl": "https://www.hotels.com/ho2693138176/hotel-baba-continental-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=96&top_cur=EUR&userIntent=&selectedRoomType=320905418&selectedRatePlan=387409955&expediaPropertyId=84129318",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Kashmir Inn Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2393006080/kashmir-inn-guest-house-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316060098&selectedRatePlan=385337447&expediaPropertyId=74750190",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Empire Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2748118176/empire-hotel-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150578&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=91&top_cur=EUR&userIntent=&selectedRoomType=320973764&selectedRatePlan=387501283&expediaPropertyId=85847443",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Four Star Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2369618048/four-star-hotel-restaurant-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150582&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=42&top_cur=EUR&userIntent=&selectedRoomType=315927415&selectedRatePlan=385076407&expediaPropertyId=74019314",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Noor Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2288766976/hotel-noor-palace-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150579&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315614643&selectedRatePlan=384140576&expediaPropertyId=71492718",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Holiday Resort Hotel kalam",
+      "hotelUrl": "https://www.hotels.com/ho2377748768/holiday-resort-hotel-kalam-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150583&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=48&top_cur=EUR&userIntent=&selectedRoomType=315978082&selectedRatePlan=385185002&expediaPropertyId=74273399",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Shangrila",
+      "hotelUrl": "https://www.hotels.com/ho2390705152/hotel-shangrila-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150578&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316040750&selectedRatePlan=385304785&expediaPropertyId=74678286",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Mehman Khana",
+      "hotelUrl": "https://www.hotels.com/ho2372368384/mehman-khana-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150581&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315942936&selectedRatePlan=385123116&expediaPropertyId=74105262",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Pakeeza Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2377760864/pakeeza-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150584&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315982870&selectedRatePlan=385193944&expediaPropertyId=74273777",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Intercontinental Hotel And Resorts",
+      "hotelUrl": "https://www.hotels.com/ho2382392832/intercontinental-hotel-and-resorts-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315988952&selectedRatePlan=385203140&expediaPropertyId=74418526",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Greens Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2288798944/greens-hotel-kalam-swat-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150584&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=85&top_cur=EUR&userIntent=&selectedRoomType=315614861&selectedRatePlan=384141212&expediaPropertyId=71493717",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Gawalmandi Serenity Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2376689024/gawalmandi-serenity-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=93&top_cur=EUR&userIntent=&selectedRoomType=315970187&selectedRatePlan=385169059&expediaPropertyId=74240282",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Kalam Continental Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2391309440/kalam-continental-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150577&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=70&top_cur=EUR&userIntent=&selectedRoomType=316045315&selectedRatePlan=385311542&expediaPropertyId=74697170",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Blue Ocean Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2377438912/blue-ocean-hotel-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150582&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315975371&selectedRatePlan=385180890&expediaPropertyId=74263716",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Galaxy Hotel Swat Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2376791648/galaxy-hotel-swat-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150582&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=69&top_cur=EUR&userIntent=&selectedRoomType=315971667&selectedRatePlan=385171050&expediaPropertyId=74243489",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Diamond Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2377780288/diamond-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150574&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=59&top_cur=EUR&userIntent=&selectedRoomType=315978311&selectedRatePlan=385185490&expediaPropertyId=74274384",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Lahore Guest House Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2377879136/lahore-guest-house-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150573&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315979046&selectedRatePlan=385187236&expediaPropertyId=74277473",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Greenland Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2386504032/greenland-hotel-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150572&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316015543&selectedRatePlan=385257957&expediaPropertyId=74547001",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Woodridge Cottages",
+      "hotelUrl": "https://www.hotels.com/ho2454513696/woodridge-cottages-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150574&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=82&top_cur=EUR&userIntent=&selectedRoomType=316387228&selectedRatePlan=385949338&expediaPropertyId=76672303",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Intercon kalam",
+      "hotelUrl": "https://www.hotels.com/ho2578879904/hotel-intercon-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150570&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=85&top_cur=EUR&userIntent=&selectedRoomType=317319511&selectedRatePlan=386695892&expediaPropertyId=80558747",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Snow White Hotel And Resturant",
+      "hotelUrl": "https://www.hotels.com/ho2394587040/snow-white-hotel-and-resturant-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150570&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=74&top_cur=EUR&userIntent=&selectedRoomType=316074424&selectedRatePlan=385369975&expediaPropertyId=74799595",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Abshar Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2394035872/abshar-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150570&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=54&top_cur=EUR&userIntent=&selectedRoomType=316065484&selectedRatePlan=385354230&expediaPropertyId=74782371",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Nazara Hotel And Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2371959872/nazara-hotel-and-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150571&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315939347&selectedRatePlan=385118304&expediaPropertyId=74092496",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Madina Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2373782240/madina-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150573&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=35&top_cur=EUR&userIntent=&selectedRoomType=315954957&selectedRatePlan=385139947&expediaPropertyId=74149445",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Green Valley Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2383520160/green-valley-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150569&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=48&top_cur=EUR&userIntent=&selectedRoomType=316001077&selectedRatePlan=385215819&expediaPropertyId=74453755",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Iceland Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2383430272/iceland-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150574&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=58&top_cur=EUR&userIntent=&selectedRoomType=316000735&selectedRatePlan=385213497&expediaPropertyId=74450946",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Al Sadiq Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2375396000/al-sadiq-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150575&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=56&top_cur=EUR&userIntent=&selectedRoomType=315958564&selectedRatePlan=385160009&expediaPropertyId=74199875",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Eagle Nest",
+      "hotelUrl": "https://www.hotels.com/ho2383397184/hotel-eagle-nest-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150568&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=316000364&selectedRatePlan=385213249&expediaPropertyId=74449912",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Pearl Continental Hotel Malam Jabba",
+      "hotelUrl": "https://www.hotels.com/ho1767088448/pearl-continental-hotel-malam-jabba-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150569&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=145&top_cur=EUR&userIntent=&selectedRoomType=232251477&selectedRatePlan=288379870&expediaPropertyId=55190264",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Crown Palace Hotel And Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2375286944/crown-palace-hotel-and-restaurant-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150575&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=64&top_cur=EUR&userIntent=&selectedRoomType=315958518&selectedRatePlan=385159246&expediaPropertyId=74196467",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Lal Tower Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2382319296/lal-tower-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150575&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315988145&selectedRatePlan=385202303&expediaPropertyId=74416228",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Paradise Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2392685152/paradise-hotel-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150570&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=48&top_cur=EUR&userIntent=&selectedRoomType=316057761&selectedRatePlan=385331363&expediaPropertyId=74740161",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Malak Tower Hotel & Resturent",
+      "hotelUrl": "https://www.hotels.com/ho2377912416/malak-tower-hotel-resturent-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150575&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315979402&selectedRatePlan=385187759&expediaPropertyId=74278513",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Zaryab Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2376258816/zaryab-hotel-restaurant-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150571&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=74&top_cur=EUR&userIntent=&selectedRoomType=315965393&selectedRatePlan=385167655&expediaPropertyId=74226838",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Mountain View Resort Malam Jabba",
+      "hotelUrl": "https://www.hotels.com/ho2375111008/mountain-view-resort-malam-jabba-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150571&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=84&top_cur=EUR&userIntent=&selectedRoomType=315958095&selectedRatePlan=385151897&expediaPropertyId=74190969",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Happy Heart Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2293949088/happy-heart-hotel-restaurant-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150579&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315649657&selectedRatePlan=384207252&expediaPropertyId=71654659",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Happy Hut",
+      "hotelUrl": "https://www.hotels.com/ho2370862688/hotel-happy-hut-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150585&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=33&top_cur=EUR&userIntent=&selectedRoomType=315933158&selectedRatePlan=385106475&expediaPropertyId=74058209",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Rock City Resort",
+      "hotelUrl": "https://www.hotels.com/ho924419360/rock-city-resort-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150580&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=84&top_cur=EUR&userIntent=&selectedRoomType=220222560&selectedRatePlan=288074187&expediaPropertyId=28856855",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Hill Palace",
+      "hotelUrl": "https://www.hotels.com/ho2287649216/hotel-hill-palace-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150581&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=315607699&selectedRatePlan=384130982&expediaPropertyId=71457788",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Green View Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2372469696/green-view-hotel-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150581&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=42&top_cur=EUR&userIntent=&selectedRoomType=315943347&selectedRatePlan=385123578&expediaPropertyId=74108428",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Ali Heritage Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2389924960/ali-heritage-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150580&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=316035467&selectedRatePlan=385293438&expediaPropertyId=74653905",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Suvastu Resort",
+      "hotelUrl": "https://www.hotels.com/ho2373835232/suvastu-resort-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150584&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=37&top_cur=EUR&userIntent=&selectedRoomType=315955331&selectedRatePlan=385140922&expediaPropertyId=74151101",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Park Continental Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2371319360/park-continental-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150580&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=315934438&selectedRatePlan=385109724&expediaPropertyId=74072480",
+      "Status": "True"
+   },
+   {
+      "hotelName": "River Breeze Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2833441536/river-breeze-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150579&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=91&top_cur=EUR&userIntent=&selectedRoomType=321174704&selectedRatePlan=387973994&expediaPropertyId=88513798",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Betab Sahil Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2370781504/betab-sahil-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150588&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=40&top_cur=EUR&userIntent=&selectedRoomType=315930569&selectedRatePlan=385100344&expediaPropertyId=74055672",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Zara Residence Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2372976672/zara-residence-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150587&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=37&top_cur=EUR&userIntent=&selectedRoomType=315948841&selectedRatePlan=385128397&expediaPropertyId=74124271",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Galiyat Hills Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2369800960/galiyat-hills-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150586&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=40&top_cur=EUR&userIntent=&selectedRoomType=315927767&selectedRatePlan=385083421&expediaPropertyId=74025030",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Four Season",
+      "hotelUrl": "https://www.hotels.com/ho2371197120/hotel-four-season-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150587&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=44&top_cur=EUR&userIntent=&selectedRoomType=315933391&selectedRatePlan=385106797&expediaPropertyId=74068660",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Muree Continental Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2373888640/muree-continental-hotel-restaurant-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150586&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=84&top_cur=EUR&userIntent=&selectedRoomType=315956892&selectedRatePlan=385149771&expediaPropertyId=74152770",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Ruby Hotel Swat",
+      "hotelUrl": "https://www.hotels.com/ho2371799808/ruby-hotel-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150587&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=40&top_cur=EUR&userIntent=&selectedRoomType=315937752&selectedRatePlan=385115035&expediaPropertyId=74087494",
+      "Status": "True"
+   },
+   {
+      "hotelName": "The Rose Palace Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2372914432/the-rose-palace-hotel-restaurant-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150584&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=315948724&selectedRatePlan=385128251&expediaPropertyId=74122326",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Park Way Fizaghat",
+      "hotelUrl": "https://www.hotels.com/ho2461804544/hotel-park-way-fizaghat-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150586&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=97&top_cur=EUR&userIntent=&selectedRoomType=316438492&selectedRatePlan=386060169&expediaPropertyId=76900142",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Swat Hills Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2373653504/swat-hills-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150586&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=35&top_cur=EUR&userIntent=&selectedRoomType=315953529&selectedRatePlan=385138574&expediaPropertyId=74145422",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Peace Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2377282976/peace-palace-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933150567&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=75&top_cur=EUR&userIntent=&selectedRoomType=315975038&selectedRatePlan=385180552&expediaPropertyId=74258843",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Peace Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2377282976/peace-palace-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167746&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=75&top_cur=EUR&userIntent=&selectedRoomType=315975038&selectedRatePlan=385180552&expediaPropertyId=74258843",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Five Star & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2373660544/hotel-five-star-restaurant-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167748&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=69&top_cur=EUR&userIntent=&selectedRoomType=315953598&selectedRatePlan=385138658&expediaPropertyId=74145642",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Hilton Palace",
+      "hotelUrl": "https://www.hotels.com/ho2375122368/hotel-hilton-palace-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167746&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=106&top_cur=EUR&userIntent=&selectedRoomType=315958177&selectedRatePlan=385152009&expediaPropertyId=74191324",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Kamran International",
+      "hotelUrl": "https://www.hotels.com/ho2377427008/hotel-kamran-international-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167747&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=48&top_cur=EUR&userIntent=&selectedRoomType=315975138&selectedRatePlan=385180639&expediaPropertyId=74263344",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Tour De Swat",
+      "hotelUrl": "https://www.hotels.com/ho2294817696/hotel-tour-de-swat-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167746&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=315656310&selectedRatePlan=384222075&expediaPropertyId=71681803",
+      "Status": "True"
+   },
+   {
+      "hotelName": "River Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2395409216/river-palace-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167749&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316075802&selectedRatePlan=385378018&expediaPropertyId=74825288",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Gilgit Hunza Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2372838944/gilgit-hunza-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167747&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=35&top_cur=EUR&userIntent=&selectedRoomType=315947747&selectedRatePlan=385125967&expediaPropertyId=74119967",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Lake View Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2384766656/lake-view-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167748&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=61&top_cur=EUR&userIntent=&selectedRoomType=316004023&selectedRatePlan=385230607&expediaPropertyId=74492708",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Sharja Hotel And Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2372342592/sharja-hotel-and-restaurant-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167749&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=33&top_cur=EUR&userIntent=&selectedRoomType=315942220&selectedRatePlan=385121832&expediaPropertyId=74104456",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Swat Riverina Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2378500832/swat-riverina-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167749&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=52&top_cur=EUR&userIntent=&selectedRoomType=315984091&selectedRatePlan=385195928&expediaPropertyId=74296901",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Swat View Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2373792000/swat-view-hotel-sangota-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167750&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=80&top_cur=EUR&userIntent=&selectedRoomType=315955054&selectedRatePlan=385140102&expediaPropertyId=74149750",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Sun Rise Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2391294304/sun-rise-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167748&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=74&top_cur=EUR&userIntent=&selectedRoomType=316045183&selectedRatePlan=385311319&expediaPropertyId=74696697",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Taj Mahal hotel",
+      "hotelUrl": "https://www.hotels.com/ho2833426208/taj-mahal-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167747&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=83&top_cur=EUR&userIntent=&selectedRoomType=321174621&selectedRatePlan=387973678&expediaPropertyId=88513319",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Moonlight Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2392815808/moonlight-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167748&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=59&top_cur=EUR&userIntent=&selectedRoomType=316059522&selectedRatePlan=385336538&expediaPropertyId=74744244",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Green Land",
+      "hotelUrl": "https://www.hotels.com/ho2383823040/hotel-green-land-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167747&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=80&top_cur=EUR&userIntent=&selectedRoomType=316001280&selectedRatePlan=385216116&expediaPropertyId=74463220",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Swat Serena Hotel",
+      "hotelUrl": "https://www.hotels.com/ho171333664/swat-serena-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167748&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=150&top_cur=EUR&userIntent=&selectedRoomType=202167100&selectedRatePlan=211100995&expediaPropertyId=5322927",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Fizagat View Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2393020416/fizagat-view-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167749&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=62&top_cur=EUR&userIntent=&selectedRoomType=316060280&selectedRatePlan=385337583&expediaPropertyId=74750638",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Dubai Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2385170336/dubai-hotel-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167751&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=46&top_cur=EUR&userIntent=&selectedRoomType=316005926&selectedRatePlan=385237456&expediaPropertyId=74505323",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Shelton's Rezidor Swat",
+      "hotelUrl": "https://www.hotels.com/ho2469015360/shelton-s-rezidor-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167750&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=138&top_cur=EUR&userIntent=&selectedRoomType=316488387&selectedRatePlan=386127410&expediaPropertyId=77125480",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Stay Inn Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2469047264/stay-inn-hotel-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167752&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=71&top_cur=EUR&userIntent=&selectedRoomType=316488632&selectedRatePlan=386127864&expediaPropertyId=77126477",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Sky Hill's Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2436143296/sky-hill-s-hotel-restaurant-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167750&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=65&top_cur=EUR&userIntent=&selectedRoomType=316267325&selectedRatePlan=385711726&expediaPropertyId=76098228",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Mom Touch Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2292560704/mom-touch-hotel-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167751&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=80&top_cur=EUR&userIntent=&selectedRoomType=315636497&selectedRatePlan=384185213&expediaPropertyId=71611272",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Panjkura Hotel And Resorts Kumrat",
+      "hotelUrl": "https://www.hotels.com/ho2271169696/panjkura-hotel-and-resorts-kumrat-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167751&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=93&top_cur=EUR&userIntent=&selectedRoomType=315539903&selectedRatePlan=383880852&expediaPropertyId=70942803",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Green Hills Thall Kumrat",
+      "hotelUrl": "https://www.hotels.com/ho2273418112/hotel-green-hills-thall-kumrat-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167751&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=55&top_cur=EUR&userIntent=&selectedRoomType=315556835&selectedRatePlan=383913824&expediaPropertyId=71013066",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Besham Ramada Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2462621728/besham-ramada-hotel-besham-city-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167750&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=82&top_cur=EUR&userIntent=&selectedRoomType=316444053&selectedRatePlan=386074011&expediaPropertyId=76925679",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Indus Hotel Shangla",
+      "hotelUrl": "https://www.hotels.com/ho2866472160/indus-hotel-shangla-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167752&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&top_dp=67&top_cur=EUR&userIntent=&selectedRoomType=321330112&selectedRatePlan=388598348&expediaPropertyId=89546005",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Orangeloft Frontier",
+      "hotelUrl": "https://www.hotels.com/ho2736612512/orangeloft-frontier-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167736&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=85487891",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Orangeloft Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2719266048/orangeloft-kalam-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167736&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=84945814",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Green Hilton Hotel Shangla",
+      "hotelUrl": "https://www.hotels.com/ho2268981120/green-hilton-hotel-shangla-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167736&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=70874410",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Burj Al Swat Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2269425504/burj-al-swat-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167737&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=70888297",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Pameer Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2277664960/hotel-pameer-swat-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167737&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71145780",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Zarin Palace",
+      "hotelUrl": "https://www.hotels.com/ho2281694592/hotel-zarin-palace-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167737&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71271706",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Liberty Hotel Bahrain",
+      "hotelUrl": "https://www.hotels.com/ho2384961408/liberty-hotel-bahrain-bahrain-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167737&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=74498794",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Al Khaleej",
+      "hotelUrl": "https://www.hotels.com/ho2288740288/hotel-al-khaleej-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71491884",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Swat Gateway",
+      "hotelUrl": "https://www.hotels.com/ho2287689248/hotel-swat-gateway-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71459039",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Swat Regency",
+      "hotelUrl": "https://www.hotels.com/ho2344635104/hotel-swat-regency-mingora-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73238597",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Grand Holidays Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2359010016/grand-holidays-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73687813",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Three Star Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2361084672/three-star-hotel-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73752646",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Green Palace Guest House Malam Jabba",
+      "hotelUrl": "https://www.hotels.com/ho1222245216/green-palace-guest-house-malam-jabba-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=38163913",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Golden Star Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2338918016/golden-star-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167738&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73059938",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Sangam Hotel Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2335183424/sangam-hotel-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167739&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72943232",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Rmasaa Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2361652608/rmasaa-hotel-restaurant-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167739&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73770394",
+      "Status": "True"
+   },
+   {
+      "hotelName": "FR Darya E Swat Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2339186496/fr-darya-e-swat-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167739&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73068328",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Galaxy Inn Guest House",
+      "hotelUrl": "https://www.hotels.com/ho2317869472/galaxy-inn-guest-house-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167739&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72402171",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Moon Palace Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2358991456/moon-palace-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167740&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73687233",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Marcopolo",
+      "hotelUrl": "https://www.hotels.com/ho2335952096/hotel-marcopolo-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167740&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72967253",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Bagh Bala Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2308464896/bagh-bala-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167740&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72108278",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Hotel Lords Palace Kalam",
+      "hotelUrl": "https://www.hotels.com/ho2345493664/hotel-lords-palace-kalam-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167740&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73265427",
+      "Status": "True"
+   },
+   {
+      "hotelName": "New Al Zeb Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2335303040/new-al-zeb-hotel-kalam-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167742&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72946970",
+      "Status": "True"
+   },
+   {
+      "hotelName": "City Star Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2358957184/city-star-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933167733&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73686162",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Royal City Hotel & Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2361932512/royal-city-hotel-restaurant-malam-jabba-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172996&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=73779141",
+      "Status": "True"
+   },
+   {
+      "hotelName": "The Riverine Inn",
+      "hotelUrl": "https://www.hotels.com/ho2277578656/the-riverine-inn-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172997&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71143083",
+      "Status": "True"
+   },
+   {
+      "hotelName": "New Honey Moon Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2270790240/new-honey-moon-hotel-swat-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172997&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=70930945",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Kumrat Maskan Hotel",
+      "hotelUrl": "https://www.hotels.com/ho2334384960/kumrat-maskan-hotel-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172997&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=72918280",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Kumrat Glamping Resorts",
+      "hotelUrl": "https://www.hotels.com/ho2304139936/kumrat-glamping-resorts-kumrat-valley-pakistan/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172997&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=71973123",
+      "Status": "True"
+   },
+   {
+      "hotelName": "Apple Hotel and Restaurant",
+      "hotelUrl": "https://www.hotels.com/ho2874215040/apple-hotel-and-restaurant-dixcove-ghana/?chkin=2022-12-20&chkout=2022-12-21&x_pwa=1&rfrr=HSR&pwa_ts=1670933172996&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=553248635975094920&destination=Swat%2C+Khyber+Pakhtunkhwa%2C+Pakistan&destType=MARKET&sort=RECOMMENDED&userIntent=&expediaPropertyId=89787970",
+      "Status": "True"
+   }
+]
